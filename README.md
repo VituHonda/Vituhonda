@@ -1,9 +1,13 @@
 ### Hello!! I'm Vitor 👋
 
-<div class="colummn">
+<div class="row">
   <a href="https://github.com/VituHonda">
+    <div class="column">
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=VituHonda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </div>
+    <div class="column">
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VituHonda&layout=compact&langs_count=7&theme=github_dark"/>
+    </div>  
 </div>
 
 
