@@ -1,0 +1,19 @@
+name: Cobrinha
+
+# Controls when the workflow will run
+on:
+  schedule: # execute every 12 hours
+  - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: cobrinha
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v1.1.0
+        id: snake
+        with:
+          github_user_name: vituhonda
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
