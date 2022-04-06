@@ -3,7 +3,7 @@
 
 <div class="row">
   <a href="https://github.com/VituHonda">
-  <div class="column"  
+  <div class="column">  
     <img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
   </div>  
   <div class="column">  
