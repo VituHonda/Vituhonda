@@ -1,5 +1,11 @@
 ### Hello!! I'm Vitor 👋
 
+<div align="center">
+  <a href="https://github.com/VituHonda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VituHonda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VituHonda&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <!--
 **VituHonda/VituHonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
