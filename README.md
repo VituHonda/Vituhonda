@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vituhonda"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
+
 
 
 <!--
