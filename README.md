@@ -1,6 +1,6 @@
 ### Hello!! I'm Vitor 👋
 
-<div class="colummn>
+<div class="colummn">
   <a href="https://github.com/VituHonda">
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=VituHonda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VituHonda&layout=compact&langs_count=7&theme=github_dark"/>
