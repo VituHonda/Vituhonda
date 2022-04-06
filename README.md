@@ -1,8 +1,8 @@
 ## Hello!! I'm Vitor 👋
 
 <div>
-  <a href="https://github.com/VituHonda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark">
-  <a href="https://github.com/VituHonda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&layout=compact&langs_count=7&theme=github_dark">
+  <a href="https://github.com/VituHonda"><img align="center" height="180"src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark">
+  <a href="https://github.com/VituHonda"><img align="center" heightsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&layout=compact&langs_count=7&theme=github_dark">
 </div>
 
 </div>
