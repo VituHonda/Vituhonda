@@ -1,6 +1,6 @@
 ### Hello!! I'm Vitor 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
 
 
 
