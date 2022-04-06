@@ -1,4 +1,4 @@
-## Hello!! I'm Vitor 👋
+## Hello! I'm Vitor 👋
 
 <div align="center">
   <a href="https://github.com/VituHonda"><img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark">
