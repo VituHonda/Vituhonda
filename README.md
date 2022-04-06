@@ -1,10 +1,10 @@
 ### Hello!! I'm Vitor 👋
 
 
-<div class="row">
+<div align="justify">
   <a href="https://github.com/VituHonda">
   <img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark" height="160"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark"> 
 </div>
 
 
