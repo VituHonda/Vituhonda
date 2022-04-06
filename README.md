@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VituHonda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VituHonda&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<a href="https://github.com/VituHonda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VituHonda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true" /></a>
+
 
 <!--
 **VituHonda/VituHonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
