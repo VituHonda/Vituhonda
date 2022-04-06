@@ -4,7 +4,7 @@
 <div class="row">
   <a href="https://github.com/VituHonda">
   <div class="column"  
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
   </div>  
   <div class="column">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark"/> 
