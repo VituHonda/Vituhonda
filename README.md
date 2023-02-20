@@ -1,7 +1,7 @@
 ## Hello! I'm Vitor 👋
 
 
-<div>
+<div align="center">
 <a href="https://github.com/VituHonda">
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
 </a>
