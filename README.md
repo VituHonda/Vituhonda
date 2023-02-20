@@ -1,5 +1,11 @@
 ## Hello! I'm Vitor 👋
 
+<a href="https://github.com/VituHonda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
+</a>
+<a href=https://github.com/VituHonda>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark"/>
+</a>
 
 
 </div>
