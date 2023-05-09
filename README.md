@@ -3,12 +3,14 @@
 
 <div align="center">
 <a href="https://github.com/VituHonda">
-  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
+  <img align="center" height="220px" src="https://vituhonda-github-readme-status.vercel.app/api?username=vituhonda&show_icons=true&theme=github_dark"/>
 </a>
 <a href=https://github.com/VituHonda>
-  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark"/>
+  <img align="center" height="220px" src="https://vituhonda-github-readme-status.vercel.app/api/top-langs/?username=vituhonda&theme=github_dark"/>
 </a>
 </div>
+  
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PythonIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
