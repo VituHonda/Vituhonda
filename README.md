@@ -17,6 +17,7 @@
   
 </div>
 
+
 <div> 
   <h3>Contato:</h3>
   <a href = "mailto:vitorutk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
