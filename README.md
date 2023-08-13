@@ -80,7 +80,7 @@
 
 <div>
 
-![snake gif](https://github.com/VituHonda/VituHonda/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/VituHonda/VituHonda/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
 
