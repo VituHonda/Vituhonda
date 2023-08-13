@@ -5,25 +5,24 @@
   
 </div>
 
-<div>
+<div align="center">
 
 <h3>Projetos:</h3>
 
+<a href="https://vituhonda.github.io/Portfolio/">Portfólio
+
 <div>
 
-<a href="https://vituhonda.github.io/Portfolio/">Portfólio
-  
-</div>
-  
-</div>
 
-
-<div> 
+<div align="center"> 
   <h3>Contato:</h3>
   <a href = "mailto:vitorutk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorutagawatanabe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 <h2 align="center">Habilidades</h2>
  
