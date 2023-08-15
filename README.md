@@ -38,9 +38,9 @@
 <div style="display: inline_block"><br>
 
   <div align="center" style="display: inline_block">
-  <!-- CREDIT: https://github.com/denvercoder1/readme-typing-svg -->  
-    
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Avan%C3%A7ado)](https://git.io/typing-svg)
+  <!-- CREDIT: https://github.com/kyechan99/capsule-render#how-to-use -->
+   
+  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Avançado&animation=scaleIn)
   
   <img align="center" alt="HtmlIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="JavaIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -53,9 +53,9 @@
 &nbsp;
 
   <div align="center" style="display: inline_block">
-  <!-- CREDIT: https://github.com/denvercoder1/readme-typing-svg -->
+  <!-- CREDIT: https://github.com/kyechan99/capsule-render#how-to-use -->
     
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Intermedi%C3%A1rio)](https://git.io/typing-svg)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Intermediário&animation=scaleIn&fontSize=30)
 
   <img align="center" alt="PythonIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
@@ -66,9 +66,9 @@
 &nbsp;
   
   <div align="center" style="display: inline_block">
-  <!-- CREDIT: https://github.com/denvercoder1/readme-typing-svg -->
+  <!-- CREDIT: https://github.com/kyechan99/capsule-render#how-to-use -->
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=B%C3%A1sico)](https://git.io/typing-svg)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Básico&animation=scaleIn&fontSize=25)
   
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
     
