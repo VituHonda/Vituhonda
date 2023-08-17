@@ -40,7 +40,7 @@
   <div align="center" style="display: inline_block">
   <!-- CREDIT: https://github.com/kyechan99/capsule-render#how-to-use -->
    
-  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Avançado&animation=scaleIn)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Avançado&animation=scaleIn&fontSize=50)
   
   <img align="center" alt="Html Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Java Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
