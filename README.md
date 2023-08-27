@@ -17,7 +17,7 @@
 
 <h3>Projetos:</h3>
 
-<a href="https://vituhonda.github.io/Portfolio/">Portfólio
+<a href="https://vituhonda.github.io/Portfolio/">Portfólio</a> - <a href="https://github.com/VituHonda/Portfolio">Link do repositório
 
 <div>
 
