@@ -99,7 +99,7 @@
 </div>
   
 ##
-<!--
+<!-- ARRUMAR
 <div align="center">
 <a href="https://github.com/VituHonda">
   <img align="center" height="220px" src="https://vituhonda-github-readme-stats-git-master-vituhonda.vercel.app/api?username=vituhonda&show_icons=true&hide_border=true&theme=github_dark"/>
@@ -109,7 +109,6 @@
 </a>
 </div>
 <div>
-
 -->
 
 ![snake gif](https://github.com/VituHonda/VituHonda/blob/output/github-contribution-grid-snake-dark.svg)
