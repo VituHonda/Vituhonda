@@ -86,7 +86,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  
+
   <img align="center" alt="Go Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Saas Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <img align="center" alt="Tailwind Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -99,7 +99,7 @@
 </div>
   
 ##
-
+<!--
 <div align="center">
 <a href="https://github.com/VituHonda">
   <img align="center" height="220px" src="https://vituhonda-github-readme-stats-git-master-vituhonda.vercel.app/api?username=vituhonda&show_icons=true&hide_border=true&theme=github_dark"/>
@@ -108,8 +108,9 @@
   <img align="center" height="220px" src="https://vituhonda-github-readme-stats-git-master-vituhonda.vercel.app/api/top-langs/?username=vituhonda&hide_border=true&theme=github_dark"/>
 </a>
 </div>
-
 <div>
+
+-->
 
 ![snake gif](https://github.com/VituHonda/VituHonda/blob/output/github-contribution-grid-snake-dark.svg)
  
