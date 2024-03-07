@@ -17,7 +17,11 @@
 
 <h3>Projetos:</h3>
 
-<a href="https://vituhonda.github.io/Portfolio/">Portfólio</a> - <a href="https://github.com/VituHonda/Portfolio">Link do repositório
+| Nome do Projeto | Link do Repositório |  Linguagens 
+| ------------- | ------------- | -------------
+| <div><a href="https://vituhonda.github.io/Portfolio/">Portfólio</a>  | <a href="https://github.com/VituHonda/Portfolio">Link do repositório</a>   | <img align="center" alt="Html Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img align="center" alt="JS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="Css Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+| Healthy Way  | <a href="https://github.com/VituHonda/healthy-way">Link do repositório</a>  | <img align="center" alt="Java Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+| Gerenciador de funcionários | <a href="https://github.com/VituHonda/evo-angular-aspnetcore">Link do repositório</a> | <img align="center" alt="Dotnet Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"><img align="center" alt="Angular Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"><img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img align="center" alt="C# Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
 <div>
 
@@ -72,8 +76,8 @@
   <img align="center" alt="Ruby Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />   
   <img align="center" alt="Dotnet Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Angular Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-   <img align="center" alt="Spring Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-
+  <img align="center" alt="Spring Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="C# Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
                                  
     
   </div>
@@ -97,8 +101,8 @@
   <img align="center" alt="Tailwind Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
   <img align="center" alt="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Google Cloud Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" alt="Spring Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="Spring Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Dart Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+  <img align="center" alt="Kotlin Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
                                         
     
   </div>
