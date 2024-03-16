@@ -4,11 +4,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4C8EDA&section=header)
  
 </div>
- 
+
  
 <div align="center">
  <!-- CREDIT: https://github.com/denvercoder1/readme-typing-svg -->
-
+ <!-- CREDIT: https://github.com/denvercoder1/readme-typing-svg -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!+Eu+sou+Vitor+Tanabe.)](https://git.io/typing-svg)
   
 </div>
